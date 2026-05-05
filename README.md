@@ -1,2 +1,8 @@
-# ai-meeting-notes-that-actually-ship-acti-mos7gaup
-Built with Sviber AI — AI meeting notes that actually ship actions
+# AI meeting notes that actually ship actions
+
+Built with [Sviber AI](https://sviber.com).
+
+```bash
+npm install
+npm run dev
+```
